@@ -1,2 +1,3 @@
-# se2-mini-2025-Tue14-gr1 [TEMPLATE]
-Git / git-flow / GitHub Actions workshop task 2 for Tuesday 14:45, group 1
+# se2-mini-2026-Fri13-gr1 [TEMPLATE]
+
+Git / git-flow / GitHub Actions workshop task 2 for Friday group
