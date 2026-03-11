@@ -3,7 +3,7 @@
   "name": "Default protection SE2",
   "target": "branch",
   "source_type": "Repository",
-  "source": "michade/se2-mini-2025-template",
+  "source": "michade/se2-mini-2026-template",
   "enforcement": "active",
   "conditions": {
     "ref_name": {
